@@ -1,5 +1,7 @@
 # catalog-scraper
 
+[![tests](https://github.com/breezy-development/catalog-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/breezy-development/catalog-scraper/actions/workflows/tests.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A small, production-style Python web scraper that crawls a product catalog and exports clean
 **CSV, JSON or JSONL**. It targets [books.toscrape.com](https://books.toscrape.com), a sandbox
 site built for scraping practice, so you can run every command below yourself.
